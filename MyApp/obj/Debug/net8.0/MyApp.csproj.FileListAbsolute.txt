@@ -1,0 +1,15 @@
+C:\Users\atul_\test\myrepo\MyApp\bin\Debug\net8.0\MyApp.exe
+C:\Users\atul_\test\myrepo\MyApp\bin\Debug\net8.0\MyApp.deps.json
+C:\Users\atul_\test\myrepo\MyApp\bin\Debug\net8.0\MyApp.runtimeconfig.json
+C:\Users\atul_\test\myrepo\MyApp\bin\Debug\net8.0\MyApp.dll
+C:\Users\atul_\test\myrepo\MyApp\bin\Debug\net8.0\MyApp.pdb
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfoInputs.cache
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.AssemblyInfo.cs
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.sourcelink.json
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.dll
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\refint\MyApp.dll
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.pdb
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
+C:\Users\atul_\test\myrepo\MyApp\obj\Debug\net8.0\ref\MyApp.dll
