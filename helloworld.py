@@ -1,2 +1,2 @@
 print ("hello world")
-primt ("update")
+print ("update")
