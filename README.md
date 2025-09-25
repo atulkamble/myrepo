@@ -115,7 +115,10 @@ Push to GitHub:
 ```bash
 git push origin main
 ```
-
+// make some changes to code and try git pull
+```
+git pull
+```
 ---
 
 ✅ You have successfully:
